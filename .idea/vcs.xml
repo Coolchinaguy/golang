@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GinHello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gin-contrib/sse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gin-gonic/gin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mattn/go-isatty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/ugorji/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golangAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopkg.in/go-playground/validator.v8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopkg.in/yaml.v2" vcs="Git" />
+  </component>
+</project>
